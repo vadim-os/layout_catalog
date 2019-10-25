@@ -46,21 +46,6 @@
         -ms-flex-pack: justify;
             justify-content: space-between;
     margin-top: 16px; }
-  .card__rating--starsblock {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
-    width: 91px;
-    height: 15px; }
-  .card__rating--activestar {
-    width: 15px;
-    background: url(../images/star-active.svg) no-repeat; }
-  .card__rating--notactivestar {
-    width: 15px;
-    background: url(../images/star.svg) no-repeat; }
   .card__price {
     display: -webkit-box;
     display: -ms-flexbox;
