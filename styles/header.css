@@ -44,8 +44,7 @@
   line-height: 60px;
   color: #000;
   text-decoration: none;
-  text-transform: uppercase;
-  white-space: nowrap; }
+  text-transform: uppercase; }
   .navbar__link:hover {
     color: #00acdc; }
 
