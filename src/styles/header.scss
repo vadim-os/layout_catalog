@@ -39,6 +39,7 @@
     line-height: 60px;
     color: #000;
     @include upcase-nondecor-link;
+    white-space: nowrap;
 
     &:hover {
       color: $theme-color;
